@@ -7,4 +7,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtapugur&show_icons=true&locale=en&layout=compact" alt="mehtapugur" /></p>
 
-<img height="200px" src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif"/>
+<img height="200px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
