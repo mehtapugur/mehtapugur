@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on multiple projects
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning CSS and JavaScript
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mehtapugur)
 
