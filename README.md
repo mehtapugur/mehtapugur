@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on multiple projects
-- 🌱 I’m currently learning CSS and JavaScript
+- 🌱 I’m currently learning JavaScript, Angular etc.
 
 
 ### I love learning new things and I'm in love with this profession 
