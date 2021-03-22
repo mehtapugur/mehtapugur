@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript, Angular etc.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtapugur&show_icons=true&locale=en&layout=compact" alt="mehtapugur" /></p>
-<br><br><br/><br/><br/><br/><br><br>
+<br><br><br/><br/><br/><br/><br>
 
 ### I love learning new things and I'm in love with this profession
 
