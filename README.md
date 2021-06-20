@@ -17,6 +17,6 @@
 <br><br><br/><br/><br/><br/><br>
 
 
-<h3 align="center">I love learning new things and I'm in love with this profession</h3>
+<h3>I love learning new things and I'm in love with this profession</h3>
 
 <img height="200px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
