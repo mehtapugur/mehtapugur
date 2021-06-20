@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student | Front-end Developer</h3>
 
 - 🔭 I’m currently working on multiple projects
-- 🌱 I’m currently learning Bootstrap, JavaScript etc.
+- 🌱 I’m currently learning JavaScript, React.js etc.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> 
@@ -16,6 +16,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtapugur&show_icons=true&locale=en&layout=compact" alt="mehtapugur" /></p>
 <br><br><br/><br/><br/><br/><br>
 
-### I love learning new things and I'm in love with this profession
+<h3 align="center">I love learning new things and I'm in love with this profession</h3>
 
-<img height="200px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="center" height="200px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
