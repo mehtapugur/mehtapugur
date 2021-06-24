@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student | Front-end Developer</h3>
 
 - 🔭 I’m currently working on multiple projects
-- 🌱 I’m currently learning JavaScript, React.js etc.
+- 🌱 I’m currently learning JavaScript, React etc.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> 
