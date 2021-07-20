@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
 - 🔭 I’m currently working on multiple projects
-- 👩‍💻 Nowadays, I’m learning JavaScript and React.js. I regularly practice algorithm questions on [**Hackerrank**](https://www.hackerrank.com/mugur_js/)
+- 👩‍💻 Nowadays, I’m learning JavaScript and React.js. I regularly practice algorithm questions on [**Hackerrank**](https://www.hackerrank.com/mugur_js/) and I'm reading [**You Dont Know JS**](https://github.com/getify/You-Dont-Know-JS) series.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> 
