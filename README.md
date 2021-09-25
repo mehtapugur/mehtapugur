@@ -8,7 +8,7 @@
 - 💻 I regularly practice algorithm questions on [**Hackerrank**](https://www.hackerrank.com/)
 - 📖 I'm reading [**You Dont Know JS**](https://github.com/getify/You-Dont-Know-JS) series.
 
-<div display="flex" justify-content="space-between">
+<p>
 <div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> 
@@ -27,9 +27,7 @@
 <a href="https://www.hackerrank.com/mugur_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mugur_js" height="30" width="40" /></a>
 <a href="https://medium.com/@mugur.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mugur.js" height="30" width="40" /></a>
 </div>
-  
-<div>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtapugur&show_icons=true&locale=en&layout=compact" alt="mehtapugur" /></p>
 <br>
-</div>
-</div>
+</p>
