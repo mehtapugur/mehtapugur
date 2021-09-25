@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my portfolyo website.
 - 💻 I regularly practice algorithm questions on [**Hackerrank**](https://www.hackerrank.com/)
 - 📖 I'm reading [**You Dont Know JS**](https://github.com/getify/You-Dont-Know-JS) series.
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtapugur&show_icons=true&locale=en&layout=compact" alt="mehtapugur" width="400" height="350"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtapugur&show_icons=true&locale=en&layout=compact" alt="mehtapugur" width="360" height="310"/>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" >
