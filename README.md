@@ -18,5 +18,12 @@
   <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
 
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://codepen.io/mehtapugur" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codepen.svg" alt="mehtapugur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mehtapugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehtapugur" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mugur_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mugur_js" height="30" width="40" /></a>
+<a href="https://medium.com/@mugur.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mugur.js" height="30" width="40" /></a>
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtapugur&show_icons=true&locale=en&layout=compact" alt="mehtapugur" /></p>
 <br>
