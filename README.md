@@ -8,6 +8,7 @@
 - 💻 I regularly practice algorithm questions on [**Hackerrank**](https://www.hackerrank.com/)
 - 📖 I'm reading [**You Dont Know JS**](https://github.com/getify/You-Dont-Know-JS) series.
 
+<section width="100%">
 <h3 align="left">Languages and Tools:</h3>
 <div width="50%">
 <p align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> 
@@ -31,3 +32,4 @@
 <br>
 </p>
 <div>
+</section>
