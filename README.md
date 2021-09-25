@@ -20,8 +20,8 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://codepen.io/mehtapugur" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codepen.svg" alt="mehtapugur" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mehtapugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehtapugur" height="30" width="40" /></a>
+<a href="https://codepen.io/mehtapugur" target="blank"><img align="center" src="https://user-images.githubusercontent.com/24686636/134751871-1f9789be-20c0-44fb-8796-84225df86fea.png" alt="mehtapugur" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mugur_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mugur_js" height="30" width="40" /></a>
 <a href="https://medium.com/@mugur.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mugur.js" height="30" width="40" /></a>
 
