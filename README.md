@@ -21,14 +21,14 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
 
 <h4 align="left">Connect with me:</h4>
-<p align="left" width="50%">
+<p align="left" width="400">
 <a href="https://www.linkedin.com/in/mehtapugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehtapugur" height="30" width="40" /></a>
 <a href="https://codepen.io/mehtapugur" target="blank"><img align="center" src="https://user-images.githubusercontent.com/24686636/134751931-dd80bd8a-e4bb-4ebe-9837-ad7b83f0c306.png" alt="mehtapugur" height="32" width="34" /></a>
 <a href="https://www.hackerrank.com/mugur_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mugur_js" height="30" width="40" /></a>
 <a href="https://medium.com/@mugur.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mugur.js" height="30" width="40" /></a>
 </div>
 <div width="50%">
-<p align="right" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtapugur&show_icons=true&locale=en&layout=compact" alt="mehtapugur" width="100" height="200" /></p>
+<p align="right" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtapugur&show_icons=true&locale=en&layout=compact" alt="mehtapugur" width="500" height="400" /></p>
 <br>
 </p>
 <div>
