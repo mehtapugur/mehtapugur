@@ -8,7 +8,7 @@
 - 💻 I regularly practice algorithm questions on [**Hackerrank**](https://www.hackerrank.com/)
 - 📖 I'm reading [**You Dont Know JS**](https://github.com/getify/You-Dont-Know-JS) series.
 
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtapugur&show_icons=true&locale=en&layout=compact" alt="mehtapugur" width="100" height="200"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtapugur&show_icons=true&locale=en&layout=compact" alt="mehtapugur" width="400" height="350"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" >
