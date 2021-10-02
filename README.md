@@ -24,6 +24,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mehtapugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehtapugur" height="30" width="40" /></a>
 <a href="https://codepen.io/mehtapugur" target="blank"><img align="center" src="https://user-images.githubusercontent.com/24686636/134751931-dd80bd8a-e4bb-4ebe-9837-ad7b83f0c306.png" alt="mehtapugur" height="32" width="34" /></a>
-<a href="https://discordapp.com/users/522399798926639108/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="mugur_js" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/522399798926639108/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="mugur_js" height="40" width="45" /></a>
 <a href="https://www.hackerrank.com/mugur_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mugur_js" height="30" width="40" /></a>
 <a href="https://medium.com/@mugur.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mugur.js" height="30" width="40" /></a></p>
