@@ -3,10 +3,10 @@
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
-- 👩‍💻 Nowadays, I’m learning **JavaScript** and **React.js**.
-- 🔭 I’m currently working on my portfolyo website.
+- ⚡ I’m currently working on my portfolyo website.
+- 👩‍💻 Nowadays, I’m learning **JavaScript** and **React.js** 💜
 - 💻 I regularly practice algorithm questions on [**Hackerrank**](https://www.hackerrank.com/)
-- 📖 I'm reading [**You Dont Know JS**](https://github.com/getify/You-Dont-Know-JS) series.
+- 📚 I'm reading [**You Dont Know JS**](https://github.com/getify/You-Dont-Know-JS) series.
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtapugur&show_icons=true&locale=en&layout=compact" alt="mehtapugur" width="350" height="290"/>
 
 <h3 align="left">Languages and Tools:</h3>
