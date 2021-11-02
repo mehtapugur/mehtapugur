@@ -42,7 +42,3 @@
 <a href="https://www.hackerrank.com/mugur_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mugur_js" height="30" width="40" /></a>
 <a href="https://medium.com/@mugur.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mugur.js" height="30" width="40" /></a></p>
 
-<h2>Projects</h2>
-
-[![Readme Card](https://github.com/mehtapugur/Cargo-Delivery-System)](https://github.com/mehtapugur/Cargo-Delivery-System)
-
