@@ -44,5 +44,5 @@
 
 <h2>Projects</h2>
 
-[![Readme Card]](https://github.com/mehtapugur/Cargo-Delivery-System)
+[![Readme Card](https://github.com/mehtapugur/Cargo-Delivery-System)](https://github.com/mehtapugur/Cargo-Delivery-System)
 
