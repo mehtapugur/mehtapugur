@@ -42,3 +42,13 @@
 <a href="https://www.hackerrank.com/mugur_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mugur_js" height="30" width="40" /></a>
 <a href="https://medium.com/@mugur.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mugur.js" height="30" width="40" /></a></p>
 
+
+### 📌 Some Projects
+
+- :ballot_box: [Cargo Delivery System](https://github.com/mehtapugur/Cargo-Delivery-System)
+- :closed_lock_with_key: [Registration App with Node.js with JWT](https://github.com/mehtapugur/Registration-App-with-Node.js-JWT)
+- :dog2: [P-Dog](https://github.com/mehtapugur/P-Dog)
+- :flower_playing_cards: [Sporcu Kart Oyunu](https://github.com/mehtapugur/Sporcu-Kart-Oyunu)
+- :black_circle: [Minimum Enclosing Circle with Bezier](https://github.com/mehtapugur/MEC-Bezier)
+- :clipboard: [Kelime Sayma](https://github.com/mehtapugur/kelimeSayma)
+- :control_knobs: [Sudoku](https://github.com/mehtapugur/sudoku)
