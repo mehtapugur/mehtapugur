@@ -41,7 +41,8 @@
 <a href="https://discordapp.com/users/522399798926639108/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="mugur_js" height="40" width="45" /></a>
 <a href="https://www.hackerrank.com/mugur_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mugur_js" height="30" width="40" /></a>
 <a href="https://medium.com/@mugur.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mugur.js" height="30" width="40" /></a></p>
-<br><br>
+<hr>
+
 ### 📌 Some Projects
 
 - :ballot_box: [Cargo Delivery System](https://github.com/mehtapugur/Cargo-Delivery-System)
