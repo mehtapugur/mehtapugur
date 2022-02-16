@@ -44,6 +44,7 @@
 
 ### 📌 Some Projects
 
+- :clapper: [Movie Mate](https://github.com/mehtapugur/Movie-Mate)
 - :ballot_box: [Cargo Delivery System](https://github.com/mehtapugur/Cargo-Delivery-System)
 - :closed_lock_with_key: [Registration App with Node.js with JWT](https://github.com/mehtapugur/Registration-App-with-Node.js-JWT)
 - :dog2: [P-Dog](https://github.com/mehtapugur/P-Dog)
